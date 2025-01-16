@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I’m Garfield, I’m 17 years old , I am interested in coding</div>  
+### <div align="center">I’m Garfield, I’m 20 years old , I am interested in Marathon</div>  
   
 
 - 🔭 I’m studying in high school and I want to study about coding in university.  
